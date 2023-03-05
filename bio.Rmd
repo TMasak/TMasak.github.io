@@ -1,0 +1,15 @@
+---
+output: html_document
+---
+
+## <font color='#0065bd'>Biography</font>
+
+I am a [Bernoulli Instructor](https://www.epfl.ch/schools/sb/research/math/bernoulli-instructors/) in the Department of Mathematics of the Swiss Federal Institute of Technology Lausanne (EPFL).
+
+Before starting my current position, I received my PhD from EPFL, advised by Victor Panaretos. Before joining EPFL about 5 years ago, I obtained my Master and Bachelor degrees from Charles University (Prague, Czech Republic), advised by Jaromír Antoch. During (and shortly after) my Master studies, I spend some time in Zurich and Munich, and I was privileged to work with Sara van de Geer, Felix Krahmer and Claudia Klüppelberg.
+
+## <font color='#0065bd'>Awards</font>
+
+* 2022 EPFL Doctoral Program Thesis Distinction (top 8%)
+* Dean's Award for Excellence in Teaching 2021-22
+* Master Thesis Award (1st place)
