@@ -1,9 +1,0 @@
----
-output: html_document
----
-
-## Section 3
-
-Sed leo tortor,
-
-
