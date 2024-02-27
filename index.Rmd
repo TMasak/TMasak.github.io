@@ -15,8 +15,8 @@ Welcome to my personal webpage, which is just a slightly more wordy but also sub
           <table cellspacing="0" cellpadding="0">
               <tr>
                   <td style="border-radius: 2px;" bgcolor="#0065bd">
-                      <a href="mailto: tomas.masak@epfl.ch" target="_blank" style="padding: 8px 12px; border: 1px solid #0065bd;border-radius: 2px;font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #ffffff;text-decoration: none;font-weight:bold;display: inline-block;">
-                          tomas.masak@epfl.ch            
+                      <a href="mailto: tmasak@wu.ac.at" target="_blank" style="padding: 8px 12px; border: 1px solid #0065bd;border-radius: 2px;font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #ffffff;text-decoration: none;font-weight:bold;display: inline-block;">
+                          tmasak@wu.ac.at            
                       </a>
                   </td>
               </tr>
