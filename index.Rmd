@@ -7,7 +7,7 @@ Welcome to my personal webpage, which is just a slightly more wordy but also sub
 
 <br>
 
-<img src="misc/foto.jpg" alt="photo" width=173 />
+<img src="misc/foto.jpg" alt="photo" width=143 />
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
