@@ -39,10 +39,5 @@ The intersection between my two main lines of research is the concept of low-ran
 * [publicly available](https://github.com/TMasak/cerss)
 * allows reproduction of the simulation studies and real data applications in Masak & Panaretos (2022) and Masak, Sarkar & Panaretos (2023) and Masak, Rubín & Panaretos (2022)
 
-`fglasso` package
- 
-* code to the functional graphical lasso paper above
-* not yet public, available upon request
-
 
 
