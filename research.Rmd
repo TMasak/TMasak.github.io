@@ -17,7 +17,9 @@ The intersection between my two main lines of research is the concept of low-ran
 
 ## <font color='#0065bd'>Publications</font>
 
-* T. Masak & V. Panaretos (2022) Random Surface Covariance Estimation by Shifted Partial Tracing. *Journal of the American Statistical Association*.
+* K. Waghmare, T. Masak & V. Panaretos (2025) The Functional Graphical Lasso. *The Annals of Statistics*.
+    - [open access](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/The-functional-graphical-lasso/10.1214/25-AOS2521.full)
+* T. Masak & V. Panaretos (2023) Random Surface Covariance Estimation by Shifted Partial Tracing. *Journal of the American Statistical Association*.
     - [open access](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2061982)
 * T. Masak, S. Sarkar & V. Panaretos (2023) Separable Expansions for Covariance Estimation via the Partial Inner Product. *Biometrika*.
     - [open access](https://academic.oup.com/biomet/article/110/1/225/6609757)
