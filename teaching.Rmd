@@ -34,9 +34,9 @@ Below is a list of projects I have supervised at EPFL. A semester project (eithe
 
 ## <font color='#0065bd'>Exercises</font>
 
-Here is a list of semester-long courses that I have taught or TAed in the past. Being a teaching assistant (TA) at EPFL means answering questions of the students during the exercise classes and grading the homeworks and exams. I was always a "principal TA", which in addition comprises administrating the course webpage (or the Moodle page and forums) and preparation of the exams. At the other universities, my work additionally consisted of independent in-classroom teaching of the regular exercise classes. I consider myself adept in teaching various regression methods and time series analysis, as well as introductory probability and statistical inference classes for both bachelor and master students of various backgrounds, inclcuding mathematicians, computer scientists, economists and engineers.
+Here is a list of semester-long courses that I have taught or TAed in the past. Being a teaching assistant (TA) at EPFL means answering questions of the students during the exercise classes and grading the homeworks and exams. I was always a "principal TA", which in addition comprises administrating the course webpage (or the Moodle page and forums) and preparation of the exams. At the other universities, my work additionally consisted of independent in-classroom teaching of the regular exercise classes. I consider myself adept in teaching various regression methods and time series analysis, as well as introductory probability and statistical inference classes for both bachelor and master students of various backgrounds, including mathematicians, computer scientists, economists and engineers.
 
-* Linear Models, EPFL (2022,2021,2020,219)
+* Linear Models, EPFL (2022,2021,2020,2019)
 * Statistique pour Mathematiciens, EPFL (2020)
 * Time Series, EPFL (2019,2018)
 * Statistics for Data Science, EPFL (2018)

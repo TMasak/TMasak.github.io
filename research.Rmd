@@ -22,16 +22,16 @@ The intersection between my two main lines of research is the concept of low-ran
 * T. Masak, S. Sarkar & V. Panaretos (2023) Separable Expansions for Covariance Estimation via the Partial Inner Product. *Biometrika*.
     - [open access](https://academic.oup.com/biomet/article/110/1/225/6609757)
     - [arXiv version](https://arxiv.org/abs/2007.12175) can be of interest in this case
-* T. Masak, T. Rubín & V. Panaretos (2022) Sprsely Observed Random Surfaces. *Journal of Computational and Graphical Statistics*.
+* T. Masak, T. Rubín & V. Panaretos (2022) Sparsely Observed Random Surfaces. *Journal of Computational and Graphical Statistics*.
     - [open access](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2034640)
-* T. Masak (2017) Iteratively Reweighted Least Squares Algorithm for Sparse Principal Component Anlysis with Application to Voting Records. *Statistika: Statistics and Economy Journal*.
+* T. Masak (2017) Iteratively Reweighted Least Squares Algorithm for Sparse Principal Component Analysis with Application to Voting Records. *Statistika: Statistics and Economy Journal*.
     - [open access](https://www.czso.cz/documents/10180/45606531/32019717q3088.pdf/24cc2082-712b-4386-a5b5-dfcd56f3ff29?version=1.0)
 
 ## <font color='#0065bd'>Software</font>
 
 `surfcov` package
 
-* [publicly avilable](https://github.com/TMasak/surfcov)
+* [publicly available](https://github.com/TMasak/surfcov)
 * covariance estimation for random surfaces beyond separability
 * implements methodologies from Masak & Panaretos (2022) and Masak, Sarkar & Panaretos (2023)
 
