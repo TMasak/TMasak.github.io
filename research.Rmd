@@ -12,9 +12,9 @@ The intersection between my two main lines of research is the concept of low-ran
 
 ## <font color='#0065bd'>Preprints</font>
 
-* T. Masak, M. Mayrhofer & U. Radojicic (2026) Testing Covariance Separability in High Dimensions, [arXiv:2607.08388](arXiv:2607.08388)
-* C. Kümmerle, T. Masak, D. Stöger (2026) Tight Majorizations and Convergence Rates of Nuclear Norm Minimization, [arXiv:2608.23765](arXiv:2608.23765)
-* F. Tripoli, L. Santoro & T. Masak (2026) Amplitude-Phase Analysis of the COVID-19 Point Process and the Early Countermeasures, [arXiv:2608.09684](arXiv:2608.09684)
+* T. Masak, M. Mayrhofer & U. Radojicic (2026) Testing Covariance Separability in High Dimensions, [arXiv:2607.08388](https://arxiv.org/abs/2607.08388)
+* C. Kümmerle, T. Masak, D. Stöger (2026) Tight Majorizations and Convergence Rates of Nuclear Norm Minimization, [arXiv:2608.23765](https://arxiv.org/abs/2608.23765)
+* F. Tripoli, L. Santoro & T. Masak (2026) Amplitude-Phase Analysis of the COVID-19 Point Process and the Early Countermeasures, [arXiv:2608.09684](https://arxiv.org/abs/2608.09684)
 
 ## <font color='#0065bd'>Publications</font>
 
