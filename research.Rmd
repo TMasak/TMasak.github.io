@@ -10,10 +10,11 @@ My research focuses on methodological aspects, but computational costs and numer
 In another line of research, I develop optimization algorithms for NP-hard versions of principal component analysis (PCA) such as matrix completion, robust PCA or sparse PCA.
 The intersection between my two main lines of research is the concept of low-rankness (in different forms), which I consider to be powerful and useful in many applied problems.
 
-## <font color='#0065bd'>Work in Progress</font>
+## <font color='#0065bd'>Preprints</font>
 
-* K. Waghmare, T. Masak & V. Panaretos: Functional Graphical LASSO
-* C. Kuemmerle, T. Masak & F. Krahmer: Optimal Quadratic Models for Low-rank Optimization
+* T. Masak, M. Mayrhofer & U. Radojicic (2026) Testing Covariance Separability in High Dimensions, [arXiv:2607.08388](arXiv:2607.08388)
+* C. Kümmerle, T. Masak, D. Stöger (2026) Tight Majorizations and Convergence Rates of Nuclear Norm Minimization, [arXiv:2608.23765](arXiv:2608.23765)
+* F. Tripoli, L. Santoro & T. Masak (2026) Amplitude-Phase Analysis of the COVID-19 Point Process and the Early Countermeasures, [arXiv:2608.09684](arXiv:2608.09684)
 
 ## <font color='#0065bd'>Publications</font>
 
