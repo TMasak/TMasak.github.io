@@ -29,6 +29,18 @@ The intersection between my two main lines of research is the concept of low-ran
     - [open access](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2034640)
 * T. Masak (2017) Iteratively Reweighted Least Squares Algorithm for Sparse Principal Component Analysis with Application to Voting Records. *Statistika: Statistics and Economy Journal*.
     - [open access](https://csu.gov.cz/docs/107508/15076401-1cd2-7af2-5401-2a7837ce5520/32019717q3088.pdf?version=1.0)
+    
+### <font color='#0065bd'>Domain-specific Applications</font>
+
+* D. Kala, T. Masák, Y. Prysiazhniuk, L. Michal, P. Jánský, A. Olšerová, T. Šrámková, K. Benešová, H. Magerová, V. Šulc, J. Paulasová Schwabová, M. Klíma, J. Svoboda, M. Kynčl, J. Šanda, P. Marusič, J. Otáhal & A. Tomek (2026) A Voxel-Wise Distribution-Based MRI Framework Identifies Post-ischemic Cavitation in Subacute Ischemic Stroke. *Quantitative Imaging in Medicine and Surgery* (in press).
+    - [publisher's website](https://qims.amegroups.org/article/view/162563)
+* J. Šanda, Z. Holubová, D. Kala, K. Jiránková, M. Kudr, T. Masák, A. Bělohlávková, P. Kršek, J. Otáhal & M. Kynčl (2025) A Comparative Analysis of Imaging-Based Algorithms for Detecting Focal Cortical Dysplasia Type II in Children. *Scientific Reports*.
+    - [open access](https://www.nature.com/articles/s41598-025-16015-3)
+
+### <font color='#0065bd'>Conference Proceedings</font>
+
+* T. Masak (2024) Functional Linear Discriminant Analysis for Misaligned Surfaces. *Proceedings of the Statistics and Data Science 2024 Conference*, pp. 147–154.
+    - [open access](https://www.ibiseco.it/wp-content/uploads/2025/02/IBIS-ECO-Proceedings-of-the-Statistics-and-Data-Science-2024-Conference.pdf)
 
 ## <font color='#0065bd'>Software</font>
 
